@@ -1,0 +1,118 @@
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\MvcMovie.dll.config
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\MvcMovie.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\MvcMovie.pdb
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Antlr3.Runtime.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\EntityFramework.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\EntityFramework.SqlServer.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.Security.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.Security.Google.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Newtonsoft.Json.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Owin.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\System.Web.Helpers.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\System.Web.Mvc.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\System.Web.Optimization.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\System.Web.Razor.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\System.Web.WebPages.Deployment.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\System.Web.WebPages.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\System.Web.WebPages.Razor.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\WebGrease.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\System.Web.Helpers.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\System.Web.Mvc.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\System.Web.Optimization.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\System.Web.Razor.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\System.Web.WebPages.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\System.Web.WebPages.Deployment.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\System.Web.WebPages.Razor.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Newtonsoft.Json.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Antlr3.Runtime.pdb
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\EntityFramework.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\EntityFramework.SqlServer.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.Security.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.Security.Google.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\obj\Debug\modeling_SearchBanners.csprojResolveAssemblyReference.cache
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\obj\Debug\modeling_SearchBanners.Migrations.Initial.resources
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\obj\Debug\modeling_SearchBanners.Migrations.Rating.resources
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\obj\Debug\modeling_SearchBanners.Migrations.DataAnnotations.resources
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\obj\Debug\modeling_SearchBanners.csproj.GenerateResource.Cache
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\obj\Debug\MvcMovie.dll
+c:\users\apavliuchik\documents\visual studio 2015\Projects\Getting Started with1\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Antlr3.Runtime.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\EntityFramework.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\EntityFramework.SqlServer.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.Security.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Newtonsoft.Json.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Owin.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\System.Web.Helpers.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\System.Web.Mvc.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\System.Web.Optimization.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\System.Web.Razor.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\System.Web.WebPages.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\System.Web.WebPages.Razor.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\WebGrease.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\EntityFramework.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\EntityFramework.SqlServer.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\System.Web.Helpers.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\System.Web.Mvc.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\System.Web.Optimization.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\System.Web.Razor.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\System.Web.WebPages.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\System.Web.WebPages.Razor.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Newtonsoft.Json.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Antlr3.Runtime.pdb
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.Security.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\obj\Debug\modeling_SearchBanners.csprojResolveAssemblyReference.cache
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\obj\Debug\modeling_SearchBanners.Migrations.Initial.resources
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\obj\Debug\modeling_SearchBanners.Migrations.Rating.resources
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\obj\Debug\modeling_SearchBanners.Migrations.DataAnnotations.resources
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\obj\Debug\modeling_SearchBanners.csproj.GenerateResource.Cache
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\MvcMovie.dll.config
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\MvcMovie.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\bin\MvcMovie.pdb
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\obj\Debug\MvcMovie.dll
+C:\Users\APavliuchik\Documents\Visual Studio 2015\Projects\OS_proj\MvcMovie\obj\Debug\MvcMovie.pdb
